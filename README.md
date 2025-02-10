@@ -18,4 +18,7 @@ Ensure you have the following installed on your system:
 
 - [Node.js](https://nodejs.org/) (v16 or later recommended)
 - [npm](https://www.npmjs.com/) (or `yarn` if preferred)
-nbolin
+
+## Summary
+
+In less than 3 days, I created the frontend, backend, tests, styling, and documentation.
