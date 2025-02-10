@@ -32,7 +32,7 @@ Ensure you have the following installed on your system:
    npm install
    ```
 
-2. **Set up environment variables:**
+2. **Set up environment variables: (OPTIONAL)**
    - Copy `.env.example` to `.env` in the root of the project.
    - Add the following (modify values as needed):
      ```env

@@ -17,7 +17,7 @@ Ensure you have the following installed on your system:
 
 ## Installation
 
-1. **Set up environment variables:**
+1. **Set up environment variables: (OPTIONAL)**
    - Copy `.env.example` to `.env` in the root of the project.
    - Add the following (modify values as needed):
      ```env

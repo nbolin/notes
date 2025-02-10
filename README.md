@@ -6,7 +6,7 @@ CRUD API using Express and SQLite.
 
 [Setup](https://github.com/nbolin/notes/blob/main/notes-api/REAMDME.md)
 
-## Backend
+## Frontend
 
 Vite, React, TypeScript, and Tailwind CSS.
 
