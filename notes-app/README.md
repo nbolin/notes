@@ -15,29 +15,6 @@ Ensure you have the following installed on your system:
 - Utilizes React Router for navigation
 - Backend API integration with axios
 
-## Project Structure
-
-```
-📂 notes-app/
-├── 📂 dist/                 # Production build output
-├── 📂 node_modules/         # Dependencies
-├── 📂 public/               # Static assets
-├── 📂 src/                  # Source code
-│   ├── 📂 api/              # API request handlers
-│   ├── 📂 assets/           # Images and other assets
-│   ├── 📂 components/       # Reusable React components
-│   ├── 📂 fonts/            # Custom fonts
-│   ├── 📂 pages/            # Page components for routing
-│   ├── 📜 App.tsx           # Main App component
-│   ├── 📜 main.tsx          # Entry point
-│   ├── 📜 index.css         # Global styles
-│   ├── 📜 vite-env.d.ts     # TypeScript support for Vite features.
-├── 📜 tailwind.config.js    # Tailwind CSS configuration
-├── 📜 tsconfig.json         # TypeScript configuration
-├── 📜 vite.config.ts        # Vite configuration
-├── 📜 README.md             # Project documentation
-```
-
 ## Installation
 
 1. **Set up environment variables:**

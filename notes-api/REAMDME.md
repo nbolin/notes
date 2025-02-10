@@ -12,8 +12,8 @@ Ensure you have the following installed on your system:
 ## Project Structure
 ```
 📂 notes-app
- ┣ 📂 dist
- ┣ 📂 src
+ ┣ 📂 dist                 # Production build output
+ ┣ 📂 src                  # Source code
  ┃ ┣ 📂 controllers        # API route handlers
  ┃ ┣ 📂 interfaces         # TypeScript interfaces
  ┃ ┣ 📂 routes             # Express route definitions
