@@ -4,7 +4,7 @@
 
 CRUD API using Express and SQLite.
 
-[Setup](https://github.com/nbolin/notes/blob/main/notes-api/REAMDME.md)
+[Setup](https://github.com/nbolin/notes/blob/main/notes-api/README.md)
 
 ## Frontend
 
