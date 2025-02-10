@@ -4,13 +4,13 @@
 
 CRUD API using Express and SQLite.
 
-[Setup](/notes-api/README.md)
+[Setup](https://github.com/nbolin/notes/notes-api/README.md)
 
 ## Backend
 
 Vite, React, TypeScript, and Tailwind CSS.
 
-[Setup](/notes-app/README.md)
+[Setup](https://github.com/nbolin/notes/notes-app/README.md)
 
 ## Prerequisites
 
